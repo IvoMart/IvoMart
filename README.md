@@ -25,12 +25,12 @@
 <div>
   <div align="center">
     
-[![Ivo - Estadisticas](https://github-readme-stats.vercel.app/api?username=IvoMart&theme=github_dark&hide_border=true&show_icons=true&hide=contribs,prs)]()
+[![Ivo - Estadisticas](https://github-readme-stats.vercel.app/api?username=IvoMart&locale=es&theme=github_dark&hide_border=true&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
   <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvoMart&layout=compact&hide_border=true&theme=github_dark&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvoMart&locale=es&layout=compact&hide_border=true&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
     
   </div>
 </div>
